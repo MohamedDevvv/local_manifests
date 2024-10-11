@@ -11,6 +11,5 @@
  <project path="vendor/lenovo" name="HyperTeam/proprietary_vendor_lenovo" remote="github" revision="lineage-18.1" />
  
  <!--Extras -->
- <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="lineage-18.1" />
  
 </manifest>
