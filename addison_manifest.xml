@@ -9,8 +9,8 @@
  <project path="kernel/lenovo/karatep" name="HyperTeam/android_kernel_lenovo_msm8937" remote="github" revision="lineage-18.1" />
  
  <!--Vendor -->
- <project path="vendor/lenovo" name="HyperTeam/proprietary_vendor_lenovo" remote="github" revision="lineage-18.1" />
- 
+ <project path="vendor/lenovo/karatep" name="HyperTeam/proprietary_vendor_lenovo" remote="github" revision="lineage-18.1" />
+ <project path="vendor/lenovo/karate-common" name="HyperTeam/proprietary_vendor_lenovo" remote="github" revision="lineage-18.1" />
  <!--Extras -->
  
 </manifest>
